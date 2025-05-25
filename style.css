@@ -1,0 +1,12 @@
+.d1{
+    width: 600px;
+    height: 7000px;
+    font-size: 30px;
+    border: 2px solid red;
+    border-radius: 20px;
+    background-color: bisque;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
